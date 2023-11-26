@@ -1,0 +1,16 @@
+#!/bin/bash
+echo ""
+echo "             Início do desafio Linux"
+echo "======================================================="
+echo ""
+echo "* Criando os diretórios"
+echo ""
+echo "* Criando grupos de usuários"
+echo ""
+echo "* Criando usuários e adicionando aos grupos respectivos"
+echo ""
+echo "* Especificando permissões dos diretórios"
+echo ""
+echo "Fim"
+echo "======================================================="
+
